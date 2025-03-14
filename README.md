@@ -39,7 +39,7 @@ This system supports **full-time and part-time employees**, calculates salaries,
 ## 📂 Project Structure
 
 ```
-📂 Payroll-Management-System
+📂 PayrollPro
  ├── src
     ├── 📄 Main.java               # Entry point
     ├── 📄 Employee.class           # Abstract base class
