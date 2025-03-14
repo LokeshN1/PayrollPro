@@ -57,7 +57,8 @@ This system supports **full-time and part-time employees**, calculates salaries,
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/yourusername/PayrollPro.git
-   cd Payroll-Management-System
+   cd PayrollPro
+   cd src     # Navigate into the src folder where Main.java is located
    ```
 
 2. **Run the Java program**  
