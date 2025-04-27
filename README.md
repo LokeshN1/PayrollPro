@@ -7,27 +7,27 @@ This system supports **full-time and part-time employees**, calculates salaries,
 
 ---
 
-## 🚀 Features
+## Features
 
-✅ **Object-Oriented Design (OOP Principles)**
+ **Object-Oriented Design (OOP Principles)**
 - Encapsulation, Abstraction, Inheritance, Polymorphism  
 - Implements `Payable` interface for flexibility  
 
-✅ **Employee Management**
+ **Employee Management**
 - Add employees (Full-time, Part-time)  
 - Remove employees by ID  
 - Display all employees  
 
-✅ **Salary Calculation**
+ **Salary Calculation**
 - Full-time salary includes **monthly salary + bonus**  
 - Part-time salary includes **hourly rate + overtime pay**  
 
-✅ **Additional Functionalities**
+ **Additional Functionalities**
 - Calculate **total payroll cost**  
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - **Java** (Core OOP Concepts)
 - **Collections (ArrayList)**
@@ -36,23 +36,23 @@ This system supports **full-time and part-time employees**, calculates salaries,
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-📂 PayrollPro
+ PayrollPro
  ├── src
-    ├── 📄 Main.java               # Entry point
-    ├── 📄 Employee.class           # Abstract base class
-    ├── 📄 FullTimeEmployee.class   # Full-time employee class
-    ├── 📄 PartTimeEmployee.class   # Part-time employee class
-    ├── 📄 PayrollSystem.class      # Manages employees
-    ├── 📄 Payable.class            # Interface for salary 
- ├── 📄 README.md               # Project documentation
+    ├── Main.java               # Entry point
+    ├── Employee.class           # Abstract base class
+    ├── FullTimeEmployee.class   # Full-time employee class
+    ├── PartTimeEmployee.class   # Part-time employee class
+    ├── PayrollSystem.class      # Manages employees
+    ├── Payable.class            # Interface for salary 
+ ├── README.md               # Project documentation
 ```
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 1. **Clone the repository**  
    ```sh
@@ -70,7 +70,7 @@ This system supports **full-time and part-time employees**, calculates salaries,
 
 ---
 
-## 📌 Example Output
+## Example Output
 
 ```
 Initial Employee List:
